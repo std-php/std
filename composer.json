@@ -1,0 +1,16 @@
+{
+    "name": "std/std",
+    "description": "The New Standard Library.   A small but powerful standard library for everyday programming.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A.B. Carroll",
+            "email": "ben@hl9.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "std\\": "src/"
+    }
+}
